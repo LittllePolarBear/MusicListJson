@@ -1,6 +1,6 @@
 {
 	"company": "Little Polar Bear",
-	"fileDescription": "A json file containing all the playlists that relate to a category.",
+	"fileDescription": "A json file containing all the playlists that relate to a category type. Designed to be in conjunction with the YouTube api",
 	"fileCreated": "2/03/2021",
 	"fileUpdated": "2/03/2021",
 	"items": [
@@ -25,6 +25,46 @@
 				{
 					"title": "High Country",
 					"path": "RDCLAK5uy_kAsrD8lk9RWv0pDGAaCmFDYCeMhHjP2I4",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Dance Hot List",
+					"path": "RDCLAK5uy_kwecsXTY1Ot2fk_dBwsAzVE2ODezp3JOU",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Hip-Hop Hot list",
+					"path": "RDCLAK5uy_muJvsP3psXD11ybFFNe-Im5v6e_swVcIM",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Hits Remixed",
+					"path": "RDCLAK5uy_kyKQDWk3BQJCsjnnTfFSY9i7v5Nfav8KQ",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Alternative Hot list",
+					"path": "RDCLAK5uy_lmCvoGHG027jMMiepW0OmKOBoQwBnpkm4",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Rock Hot List",
+					"path": "RDCLAK5uy_khNQPzlswPdX0x4e6XZQUDc-F37d6WC4Q",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Club Hot List",
+					"path": "RDCLAK5uy_kNRPg2umj2X1d7nL-b9cxdsCvhtFM9EU8",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Electronic Hot list",
+					"path": "RDCLAK5uy_kmyJtApI-zgYVu_ynP_s_Bi1PjrbmxFfQ",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Urban Hot list",
+					"path": "RDCLAK5uy_kwevdxJA1lGJBCaeDPilb0Qxh50XhnaEw",
 					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
 				}
 			]
@@ -51,6 +91,176 @@
 					"title": "Country's New Crop",
 					"path": "RDCLAK5uy_kTIO0jFO8tNIqCjtDxiEK_3PPgWZo8P1U",
 					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Hottest New Riffs",
+					"path": "RDCLAK5uy_lWaVoGOTOWt5GH4U_wU1Lo9i7w1JAptvw",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Alternative Uprising",
+					"path": "RDCLAK5uy_lAI1DCxReo0sn4XWOfpZsjqXWBaB5z5Oo",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Masters Of Song",
+					"path": "RDCLAK5uy_nft3QPpS2RjKUNsGexBnUDJiDLzVBYMN4",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Metal Detector",
+					"path": "RDCLAK5uy_k3KQo9RNpShnVtwpdKy5XGxSmrOd3hczI",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Eat Sleep Beats Repeat",
+					"path": "RDCLAK5uy_n4dowT1eaNnieuLAFZkfLdq-eQKq9VA-c",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Hot Dance Pop",
+					"path": "RDCLAK5uy_l23kUlrBNFerCCS9DwN7qbJ6IGrVHBmz8",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Artists to Watch",
+					"path": "RDCLAK5uy_nKAoX2twVSIYfq2iq7yYQ8CJS2RLjuDR0",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "The New Roots",
+					"path": "RDCLAK5uy_lIW3ypboNs_OcFEJgmrdMIF0PPgCJyT6s",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				}
+			]
+		},
+		{
+			"categoryName": "Local Favourites",
+			"categoryPlaylists": [
+				{
+					"title": "New Kiwi Cool",
+					"path": "RDCLAK5uy_ldHqbktQJiikRrKWKLQa6wz29QVcqf7RE",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "New Zealands Greatest Hits",
+					"path": "RDCLAK5uy_kuEDQ8chKNh024KpqIzlpIXcOoJFmEnfY",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Kiwi Hip-Hop Hangout",
+					"path": "RDCLAK5uy_kBzHeNcMSBgcaSDbmZ9pW1UVCE0USqBlw",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "NZ Sunshine Reggae",
+					"path": "RDCLAK5uy_kfX2RzFFVGTri9aH2AyQVZ_F3w2aUl3vY",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Kiwi Singer-Songwriters",
+					"path": "RDCLAK5uy_kqpNUebtcA8YCkRO8x25eirxVZgRatZDE",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "New Lit NZ",
+					"path": "RDCLAK5uy_nDx7UBeQIMbIeCmmyQhxig0v0RXDsfyLQ",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Kiwi Hip-Hop Essentials",
+					"path": "RDCLAK5uy_mvy_GPyNsVhzpnP1gSDXFfmxLsU6InTNo",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Kiwi Reggae Party",
+					"path": "RDCLAK5uy_kDnu7XXMXooj_RYwKForfdoxdjQZB9LHM",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Kiwi R&B Classics",
+					"path": "RDCLAK5uy_n8-GIrKvD5QQz61wGlOux8O8fImrwR_Ks",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "kiwi Indie Underground",
+					"path": "RDCLAK5uy_mNZNEJxom-DKNePVwstErsJxSlkeAIyPI",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "NZ Dub Space-Out",
+					"path": "RDCLAK5uy_kkMVP9CB21yC0z0NqWyoSwWvKvf9HVUso",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Kiwi Folk",
+					"path": "RDCLAK5uy_ktXbMsuLPbIfAs34HepK3oVAudwoOvC7U",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				}
+			]
+		},
+		{
+			"categoryName": "Just Chill",
+			"categoryPlaylists": [
+				{
+					"title": "Laid-back Sofa Pop",
+					"path": "RDCLAK5uy_kyJr7cF3AmHycw6gGUR2JNkXIdabF1d0I",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Easy Rap and R&B",
+					"path": "RDCLAK5uy_lBuqbl_FxGicpMcuA-YilHLEJWwfRy508",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Too-Easy Pop",
+					"path": "RDCLAK5uy_ksqKv0GZ5vhWBFkq5Vk3YndNA3RNcQob0",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Acoustic Versions of Pop Hits",
+					"path": "RDCLAK5uy_m3ZviIFTE7LMxlsqEnptKVrDJFj7SnwTA",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Chilled Electronica",
+					"path": "RDCLAK5uy_k-9BYQnv6z0l118PNrzVhVmJDxVR5t-Dg",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Easy Rock",
+					"path": "RDCLAK5uy_mQHw3tUaHpQQ8a9BU22j5y5TrST1AvZbg",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "New Indie Chillout",
+					"path": "RDCLAK5uy_kPp6kUgJ2WOUgjaQWLNEV9-yT9f9F89VE",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Cool Drip",
+					"path": "RDCLAK5uy_kI-6ANl8JhM0zXxhWcr9cH9GdboM2L18Y",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Laid-back country",
+					"path": "RDCLAK5uy_mhN2wwZJpa_cxfIouzefSqUrfVOv8AVZY",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Mellow Indie Crush",
+					"path": "RDCLAK5uy_kTXdn1WXpCAUwlXT1uY8ycYOz7lZsl0PA",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Smooth and Soothing Vintage Pop",
+					"path": "RDCLAK5uy_lCc_54KG8RQq3Ao4C82UIATjh3jcQ49Jc",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Indie-Folk Chill",
+					"path": "RDCLAK5uy_lDnyAvDGhm_hMPKvq8DMc-PWB846RnFfc",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
 				}
 			]
 		},
@@ -75,6 +285,121 @@
 				{
 					"title": "Good Feelin' Country",
 					"path": "RDCLAK5uy_l8UnjhpgNPPWntJCTG23F7EaxXmMATQMI",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Uplifting Electronica",
+					"path": "RDCLAK5uy_kRpxpt73iCfxZ5HT6RvEBHm3kZNLUOWN8",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Everyday We Lit",
+					"path": "RDCLAK5uy_ld8TNwkf8JbOUrW4hPLgIuSCXjfmrkSSQ",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Feelgood Singer-Songwriter",
+					"path": "RDCLAK5uy_n-EJnLiNl8F3qE6G1nzNS2LfctrjCs0y0",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Upbeat EDM",
+					"path": "RDCLAK5uy_nfobxMFbf0qFT6Np0DqNO9HmmkG7ruB2Y",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "High Rolling Hip-Hop",
+					"path": "RDCLAK5uy_mwMpfKrUB39dPTV4Oo2aIh-tUfIZDvSa8",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Nothin' But A Good Time",
+					"path": "RDCLAK5uy_nlT129bVdfXxWNGuJL8wKWDGHUgJLl8jg",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Alt-Rock Awesomeness",
+					"path": "RDCLAK5uy_mGj9b_FABwpY4vRfhTI6fl0KLXgfemjx0",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				}
+			]
+		},
+		{
+			"categoryName": "Get Motiviated",
+			"categoryPlaylists": [
+				{
+					"title": "All-Time Pumped-Up Hits",
+					"path": "RDCLAK5uy_kiogpnXSBLJ_UoX8DnwAEjrPbaR5QEF6k",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Uplifting Pop Motiviation",
+					"path": "RDCLAK5uy_kj_rigH-scm0c8z4EMEFkRh3BacWkO5Gs",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "UpBeat Indie Anthems",
+					"path": "RDCLAK5uy_mtAiuPLc2sGWxdCTxizeSL_Yt0CjznzKA",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Uplifting Country Motiviation",
+					"path": "RDCLAK5uy_kuEu8XxCbRfkDhg7d9D_9Ksv17JMHALHQ",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Hustle & Motivate",
+					"path": "RDCLAK5uy_mhkoJn7aeaGWUTsJnRceypEbZzbj5IetQ",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Epic EDM",
+					"path": "RDCLAK5uy_njgN3gH9s67yejq5NE-gloMLfJdQnwnYc",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Pumped Up Indie Kicks",
+					"path": "RDCLAK5uy_nbZY5vq7Li-UVJevhN9-YBv17ngkRTvr8",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Handclapping & Footstomping",
+					"path": "RDCLAK5uy_kNFD-7b03o9M-BggQHl6t8ZXfndIMdvI0",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Upbeat Party Jams",
+					"path": "RDCLAK5uy_kVrwj9jRNJd47mBrkVbESoXs34jS1pPbE",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "R&B Energy",
+					"path": "RDCLAK5uy_mePFf4HJpuLcL7x7_-WdhT20NvbAwUlQw",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				}
+			]
+		},
+		{
+			"categoryName": "Charts",
+			"categoryPlaylists": [
+				{
+					"title": "Top 100 Songs Australia",
+					"path": "PL4fGSI1pDJn7xvYy-bP6UFeG5tITQgScd",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Top 100 Music Videos Australia",
+					"path": "PL4fGSI1pDJn44PMHPLYatj8rta8WYtZ8_",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Trending 20 Australia",
+					"path": "PLPWE2uZOmZQEWv5MysgBH6jBzNfEydgKf",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "New Music Videos",
+					"path": "PLnc6mq_nY21O4qO3u9Ef5X5zdfospshha",
 					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
 				}
 			]
