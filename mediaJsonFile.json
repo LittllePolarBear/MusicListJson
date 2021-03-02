@@ -1,104 +1,83 @@
 {
-"company": "Little Polar Bear",
-"fileDescription": "A json file containing all the playlists that relate to a category.",
-"fileCreated": "2/03/2021",
-"fileUpdated": "2/03/2021",
-
-"items":[
-
-{
-"categoryName": "Hot Music, Top genres",
-"categoryPlaylists": [
-
-{
-"title": "Released", 
-"path": "RDCLAK5uy_kAsrD8lk9RWv0pDGAaCmFDYCeMhHjP2I4", 
-"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-},
-
-{
-"title": "The Hit List", 
-"path": "RDCLAK5uy_nomB9IIWMf7QXN3TbfmcJ5egTGzQp-JqA", 
-"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-},
-
-{
-"title": "Pop Hot List", 
-"path": "RDCLAK5uy_kKJT8tb4eLbs10ZCCNcBbDmVORfpPoa-A", 
-"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-},
-
-{
-"title": "High Country", 
-"path": "RDCLAK5uy_kAsrD8lk9RWv0pDGAaCmFDYCeMhHjP2I4", 
-"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
-}
-
-]
-},
-
-{
-"categoryName": "Discover New Music",
-"categoryPlaylists": [
-
-{
-"title": "Hype Hip Hop", 
-"path": "RDCLAK5uy_k5hVwwFHrQfZpSItQz-h0yhy_FZFr3VPI", 
-"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-},
-
-{
-"title": "Pop Fresh", 
-"path": "RDCLAK5uy_lljnd37DM3ZAAkwX51j9i6Wa4hf4zJGVk", 
-"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-},
-
-{
-"title": "R&B Wave", 
-"path": "RDCLAK5uy_nqgFA4cRO6xWZYGvIjPpRl8IOiBf8NYd4", 
-"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-},
-
-{
-"title": "Country's New Crop", 
-"path": "RDCLAK5uy_kTIO0jFO8tNIqCjtDxiEK_3PPgWZo8P1U", 
-"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
-}
-
-]
-},
-
-{
-"categoryName": "Brighten Your Day",
-"categoryPlaylists": [
-
-{
-"title": "The Happiest Pop", 
-"path": "RDCLAK5uy_kbqXHXB9aBQaqThDKOimGGcZEPubq3znc", 
-"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-},
-
-{
-"title": "R&B Positivity", 
-"path": "RDCLAK5uy_nrLYIBRmQycAGmzNqF_5XiP0Rc3rTD0oU", 
-"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-},
-
-{
-"title": "It's a Beautiful Day", 
-"path": "RDCLAK5uy_lFEoPERQkmQaGbKsaqcQdaKRFcJ4gIn_s", 
-"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-},
-
-{
-"title": "Good Feelin' Country", 
-"path": "RDCLAK5uy_l8UnjhpgNPPWntJCTG23F7EaxXmMATQMI", 
-"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
-}
-
-]
-}
-
-]
-
+	"company": "Little Polar Bear",
+	"fileDescription": "A json file containing all the playlists that relate to a category.",
+	"fileCreated": "2/03/2021",
+	"fileUpdated": "2/03/2021",
+	"items": [
+		{
+			"categoryName": "Hot Music, Top genres",
+			"categoryPlaylists": [
+				{
+					"title": "Released",
+					"path": "RDCLAK5uy_kAsrD8lk9RWv0pDGAaCmFDYCeMhHjP2I4",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "The Hit List",
+					"path": "RDCLAK5uy_nomB9IIWMf7QXN3TbfmcJ5egTGzQp-JqA",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Pop Hot List",
+					"path": "RDCLAK5uy_kKJT8tb4eLbs10ZCCNcBbDmVORfpPoa-A",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "High Country",
+					"path": "RDCLAK5uy_kAsrD8lk9RWv0pDGAaCmFDYCeMhHjP2I4",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				}
+			]
+		},
+		{
+			"categoryName": "Discover New Music",
+			"categoryPlaylists": [
+				{
+					"title": "Hype Hip Hop",
+					"path": "RDCLAK5uy_k5hVwwFHrQfZpSItQz-h0yhy_FZFr3VPI",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Pop Fresh",
+					"path": "RDCLAK5uy_lljnd37DM3ZAAkwX51j9i6Wa4hf4zJGVk",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "R&B Wave",
+					"path": "RDCLAK5uy_nqgFA4cRO6xWZYGvIjPpRl8IOiBf8NYd4",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Country's New Crop",
+					"path": "RDCLAK5uy_kTIO0jFO8tNIqCjtDxiEK_3PPgWZo8P1U",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				}
+			]
+		},
+		{
+			"categoryName": "Brighten Your Day",
+			"categoryPlaylists": [
+				{
+					"title": "The Happiest Pop",
+					"path": "RDCLAK5uy_kbqXHXB9aBQaqThDKOimGGcZEPubq3znc",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "R&B Positivity",
+					"path": "RDCLAK5uy_nrLYIBRmQycAGmzNqF_5XiP0Rc3rTD0oU",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "It's a Beautiful Day",
+					"path": "RDCLAK5uy_lFEoPERQkmQaGbKsaqcQdaKRFcJ4gIn_s",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Good Feelin' Country",
+					"path": "RDCLAK5uy_l8UnjhpgNPPWntJCTG23F7EaxXmMATQMI",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				}
+			]
+		}
+	]
 }
