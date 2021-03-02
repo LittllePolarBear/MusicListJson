@@ -1,12 +1,18 @@
 {
 	"company": "Little Polar Bear",
-	"fileDescription": "A json file containing all the playlists that relate to a category type. Designed to be in conjunction with the YouTube api",
+	"fileDescription": "A json file containing all the playlists that relate to a category type. Designed to be used in conjunction with the YouTube api",
 	"fileCreated": "2/03/2021",
-	"fileUpdated": "2/03/2021",
+	"fileUpdated": "3/03/2021",
 	"items": [
 		{
 			"categoryName": "Hot Music, Top genres",
+			"channel": "YouTube Music",
 			"categoryPlaylists": [
+				{
+					"title": "New Music Videos",
+					"path": "PLnc6mq_nY21O4qO3u9Ef5X5zdfospshha",
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/web_json_image.png"
+				},
 				{
 					"title": "Released",
 					"path": "RDCLAK5uy_kAsrD8lk9RWv0pDGAaCmFDYCeMhHjP2I4",
@@ -30,47 +36,181 @@
 				{
 					"title": "Dance Hot List",
 					"path": "RDCLAK5uy_kwecsXTY1Ot2fk_dBwsAzVE2ODezp3JOU",
-					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/web_json_image.png"
 				},
 				{
 					"title": "Hip-Hop Hot list",
 					"path": "RDCLAK5uy_muJvsP3psXD11ybFFNe-Im5v6e_swVcIM",
-					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/web_json_image.png"
 				},
 				{
 					"title": "Hits Remixed",
 					"path": "RDCLAK5uy_kyKQDWk3BQJCsjnnTfFSY9i7v5Nfav8KQ",
-					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/web_json_image.png"
 				},
 				{
 					"title": "Alternative Hot list",
 					"path": "RDCLAK5uy_lmCvoGHG027jMMiepW0OmKOBoQwBnpkm4",
-					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/web_json_image.png"
 				},
 				{
 					"title": "Rock Hot List",
 					"path": "RDCLAK5uy_khNQPzlswPdX0x4e6XZQUDc-F37d6WC4Q",
-					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/web_json_image.png"
 				},
 				{
 					"title": "Club Hot List",
 					"path": "RDCLAK5uy_kNRPg2umj2X1d7nL-b9cxdsCvhtFM9EU8",
-					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/web_json_image.png"
 				},
 				{
 					"title": "Electronic Hot list",
 					"path": "RDCLAK5uy_kmyJtApI-zgYVu_ynP_s_Bi1PjrbmxFfQ",
-					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/web_json_image.png"
 				},
 				{
 					"title": "Urban Hot list",
 					"path": "RDCLAK5uy_kwevdxJA1lGJBCaeDPilb0Qxh50XhnaEw",
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/web_json_image.png"
+				}
+			]
+		},
+		{
+			"categoryName": "Vevo Whats Hot",
+			"channel": "Vevo",
+			"categoryPlaylists": [
+				{
+					"title": "Hot This Week",
+					"path": "PL9tY0BWXOZFtx71frwf8cxXXhW0YEG3xF",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "New Releases",
+					"path": "PL9tY0BWXOZFsPMZczEqnyvD-Z5ugOZrm8",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Brand New Pop",
+					"path": "PL9tY0BWXOZFt2TyOofWG0XwA8IDC8SGIN",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Hottest New Hip-Hop",
+					"path": "PL9tY0BWXOZFv-V7FvZP-PWuE-1x2Deqqe",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "All New Indie",
+					"path": "PL9tY0BWXOZFvXYAx7RjMQd6h7_URtCwoK",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Alt R&B",
+					"path": "PL9tY0BWXOZFtVrbav9cMyj3xXIUOu8IjW",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Kickin' New Country",
+					"path": "PL9tY0BWXOZFtUu1HrxtZ4hv8nNLKiRseN",
 					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "New R&B Vibes",
+					"path": "PL9tY0BWXOZFupYyrDriLYu3ba9oYMUJ65",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Afro Beats",
+					"path": "PL9tY0BWXOZFufJOabZGuV93QVdZzouWyc",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Rugged New Rock",
+					"path": "PL9tY0BWXOZFvrS_oXmav-as9fy3lt1i34",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				}
+			]
+		},
+		{
+			"categoryName": "Top Of The Charts",
+			"channel": "YouTube Music",
+			"categoryPlaylists": [
+				{
+					"title": "Top 100 Songs Australia",
+					"path": "PL4fGSI1pDJn7xvYy-bP6UFeG5tITQgScd",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Top 100 Music Videos Australia",
+					"path": "PL4fGSI1pDJn44PMHPLYatj8rta8WYtZ8_",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Trending 20 Australia",
+					"path": "PLPWE2uZOmZQEWv5MysgBH6jBzNfEydgKf",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				}
+			]
+		},
+		{
+			"categoryName": "Vevo's Top 10 Videos",
+			"channel": "Vevo",
+			"categoryPlaylists": [
+				{
+					"title": "Top 10 Pop Videos",
+					"path": "PL9tY0BWXOZFv8JKRhQtU4elLD73E3kvvo",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Top 10 Hip-Hop Videos",
+					"path": "PL9tY0BWXOZFs8J2ySTyV8aW9ZDwT-f2KE",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Top 10 Country Videos",
+					"path": "PL9tY0BWXOZFu712crop5LYYzvxm_aY4Yi",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Top 10 Alternative Videos",
+					"path": "PL9tY0BWXOZFvHFiFhJhaqyRAHkX7ewSRk",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Top 10 Rock Videos",
+					"path": "PL9tY0BWXOZFuvha_x5OEnmpYpfK-AtuTp",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Top 10 R&B Videos",
+					"path": "PL9tY0BWXOZFuJMY7OjmKmhtOEcegCY6C6",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Top 10 EDM Videos",
+					"path": "PL9tY0BWXOZFuVbKK_q7An7AGK_sBovNbm",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Top 10 Indie Videos",
+					"path": "PL9tY0BWXOZFtJHsp-bsHZH3jxLa08rDya",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Top 10 Latin Videos",
+					"path": "PL9tY0BWXOZFuz1RSdd0ua9EHdQSJecALm",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Top 10 New Artist Videos",
+					"path": "PL9tY0BWXOZFuHBYGM1iEL6OUyiA4BsvrZ",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
 				}
 			]
 		},
 		{
 			"categoryName": "Discover New Music",
+			"channel": "YouTube Music",
 			"categoryPlaylists": [
 				{
 					"title": "Hype Hip Hop",
@@ -135,7 +275,59 @@
 			]
 		},
 		{
+			"categoryName": "Discover New Vevo Music",
+			"channel": "Vevo",
+			"categoryPlaylists": [
+				{
+					"title": "Discover Pop",
+					"path": "PL9tY0BWXOZFtbNWZwYMO7HLlH58DcVJoi",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Discover Indie",
+					"path": "PL9tY0BWXOZFuwFi1wSueeFR-7MdKn5xM-",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Discover Country",
+					"path": "PL9tY0BWXOZFs8XbSARCWThNqt5YXhCOHu",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Discover Rock",
+					"path": "PL9tY0BWXOZFsQ42vFCS-PhDg--aPyh9R7",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Discover Hip-Hop",
+					"path": "PL9tY0BWXOZFt5tsGbHhlAVX7KDM4WpMYC",
+					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
+				},
+				{
+					"title": "Discover Alternative",
+					"path": "PL9tY0BWXOZFuZjjpuZMhh7KC-Sw6aehjA",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Discover Metal",
+					"path": "PL9tY0BWXOZFsl7Hqzq6VeI7rWskr4lb37",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Discover EDM",
+					"path": "PL9tY0BWXOZFsGFJ6dh8R6AExOhIYljnjp",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Discover R&B",
+					"path": "PL9tY0BWXOZFvlIjnD63Q8WJdzN_Sa94kp",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				}
+			]
+		},
+		{
 			"categoryName": "Local Favourites",
+			"channel": "YouTube Music",
 			"categoryPlaylists": [
 				{
 					"title": "New Kiwi Cool",
@@ -201,6 +393,7 @@
 		},
 		{
 			"categoryName": "Just Chill",
+			"channel": "YouTube Music",
 			"categoryPlaylists": [
 				{
 					"title": "Laid-back Sofa Pop",
@@ -265,7 +458,29 @@
 			]
 		},
 		{
+			"categoryName": "Vibing With Vevo",
+			"channel": "Vevo",
+			"categoryPlaylists": [
+				{
+					"title": "Live Performances",
+					"path": "PL9tY0BWXOZFvtAbH4_z7IEaSYAHrNW8Wo",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Listen While You Work",
+					"path": "PL9tY0BWXOZFtsuYXNbYg_k0gUTNZAxV0Z",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				},
+				{
+					"title": "Good Vibes",
+					"path": "PL9tY0BWXOZFu46W15lzaw7yHvhV1SNZS_",
+					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
+				}
+			]
+		},
+		{
 			"categoryName": "Brighten Your Day",
+			"channel": "YouTube Music",
 			"categoryPlaylists": [
 				{
 					"title": "The Happiest Pop",
@@ -326,6 +541,7 @@
 		},
 		{
 			"categoryName": "Get Motiviated",
+			"channel": "YouTube Music",
 			"categoryPlaylists": [
 				{
 					"title": "All-Time Pumped-Up Hits",
@@ -375,31 +591,6 @@
 				{
 					"title": "R&B Energy",
 					"path": "RDCLAK5uy_mePFf4HJpuLcL7x7_-WdhT20NvbAwUlQw",
-					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
-				}
-			]
-		},
-		{
-			"categoryName": "Charts",
-			"categoryPlaylists": [
-				{
-					"title": "Top 100 Songs Australia",
-					"path": "PL4fGSI1pDJn7xvYy-bP6UFeG5tITQgScd",
-					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-				},
-				{
-					"title": "Top 100 Music Videos Australia",
-					"path": "PL4fGSI1pDJn44PMHPLYatj8rta8WYtZ8_",
-					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-				},
-				{
-					"title": "Trending 20 Australia",
-					"path": "PLPWE2uZOmZQEWv5MysgBH6jBzNfEydgKf",
-					"imageURL": "https://drive.google.com/file/d/13aLbsmu1nilsCuYXQ92EsXxWqL_Yf2zT/view?usp=sharing"
-				},
-				{
-					"title": "New Music Videos",
-					"path": "PLnc6mq_nY21O4qO3u9Ef5X5zdfospshha",
 					"imageURL": "RDCLAK5uy_mjgcSd8s0aAwJFSEJWnZihIme3dvWtptQ"
 				}
 			]
