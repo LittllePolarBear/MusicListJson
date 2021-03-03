@@ -10,68 +10,81 @@
 			"categoryPlaylists": [
 				{
 					"title": "New Music Videos",
+					"channel": "YouTube Music",
 					"path": "PLnc6mq_nY21O4qO3u9Ef5X5zdfospshha",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/woods.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "Released",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kAsrD8lk9RWv0pDGAaCmFDYCeMhHjP2I4",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/splash.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "The Hit List",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_nomB9IIWMf7QXN3TbfmcJ5egTGzQp-JqA",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/red_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "Pop Hot List",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kKJT8tb4eLbs10ZCCNcBbDmVORfpPoa-A",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_circles.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "High Country",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kAsrD8lk9RWv0pDGAaCmFDYCeMhHjP2I4",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/canvas.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "Dance Hot List",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kwecsXTY1Ot2fk_dBwsAzVE2ODezp3JOU",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/city.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "Hip-Hop Hot list",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_muJvsP3psXD11ybFFNe-Im5v6e_swVcIM",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "Hits Remixed",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kyKQDWk3BQJCsjnnTfFSY9i7v5Nfav8KQ",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "Alternative Hot list",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_lmCvoGHG027jMMiepW0OmKOBoQwBnpkm4",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/orange_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "Rock Hot List",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_khNQPzlswPdX0x4e6XZQUDc-F37d6WC4Q",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/rock.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "Club Hot List",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kNRPg2umj2X1d7nL-b9cxdsCvhtFM9EU8",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_bulb.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "Electronic Hot list",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kmyJtApI-zgYVu_ynP_s_Bi1PjrbmxFfQ",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/edm.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				},
 				{
 					"title": "Urban Hot list",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kwevdxJA1lGJBCaeDPilb0Qxh50XhnaEw",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/sun.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/hot_music_top_genres.png"
 				}
 			]
 		},
@@ -81,53 +94,63 @@
 			"categoryPlaylists": [
 				{
 					"title": "Hot This Week",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFtx71frwf8cxXXhW0YEG3xF",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/space.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_whats_hot.png"
 				},
 				{
 					"title": "New Releases",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFsPMZczEqnyvD-Z5ugOZrm8",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/splash.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_whats_hot.png"
 				},
 				{
 					"title": "Brand New Pop",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFt2TyOofWG0XwA8IDC8SGIN",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/boat.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_whats_hot.png"
 				},
 				{
 					"title": "Hottest New Hip-Hop",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFv-V7FvZP-PWuE-1x2Deqqe",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/edm.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_whats_hot.png"
 				},
 				{
 					"title": "All New Indie",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFvXYAx7RjMQd6h7_URtCwoK",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/space.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_whats_hot.png"
 				},
 				{
 					"title": "Alt R&B",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFtVrbav9cMyj3xXIUOu8IjW",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/splash.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_whats_hot.png"
 				},
 				{
 					"title": "Kickin' New Country",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFtUu1HrxtZ4hv8nNLKiRseN",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/boat.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_whats_hot.png"
 				},
 				{
 					"title": "New R&B Vibes",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFupYyrDriLYu3ba9oYMUJ65",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/edm.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_whats_hot.png"
 				},
 				{
 					"title": "Afro Beats",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFufJOabZGuV93QVdZzouWyc",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/space.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_whats_hot.png"
 				},
 				{
 					"title": "Rugged New Rock",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFvrS_oXmav-as9fy3lt1i34",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/rock.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_whats_hot.png"
 				}
 			]
 		},
@@ -137,18 +160,21 @@
 			"categoryPlaylists": [
 				{
 					"title": "Top 100 Songs Australia",
+					"channel": "YouTube Music",
 					"path": "PL4fGSI1pDJn7xvYy-bP6UFeG5tITQgScd",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_circles.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/top_of_charts.png"
 				},
 				{
 					"title": "Top 100 Music Videos Australia",
+					"channel": "YouTube Music",
 					"path": "PL4fGSI1pDJn44PMHPLYatj8rta8WYtZ8_",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_bulb.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/top_of_charts.png"
 				},
 				{
 					"title": "Trending 20 Australia",
+					"channel": "YouTube Music",
 					"path": "PLPWE2uZOmZQEWv5MysgBH6jBzNfEydgKf",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/top_of_charts.png"
 				}
 			]
 		},
@@ -158,53 +184,63 @@
 			"categoryPlaylists": [
 				{
 					"title": "Top 10 Pop Videos",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFv8JKRhQtU4elLD73E3kvvo",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/work.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_top_10.png"
 				},
 				{
 					"title": "Top 10 Hip-Hop Videos",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFs8J2ySTyV8aW9ZDwT-f2KE",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_circles.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_top_10.png"
 				},
 				{
 					"title": "Top 10 Country Videos",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFu712crop5LYYzvxm_aY4Yi",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_circles.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_top_10.png"
 				},
 				{
 					"title": "Top 10 Alternative Videos",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFvHFiFhJhaqyRAHkX7ewSRk",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_circles.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_top_10.png"
 				},
 				{
 					"title": "Top 10 Rock Videos",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFuvha_x5OEnmpYpfK-AtuTp",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_circles.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_top_10.png"
 				},
 				{
 					"title": "Top 10 R&B Videos",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFuJMY7OjmKmhtOEcegCY6C6",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_circles.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_top_10.png"
 				},
 				{
 					"title": "Top 10 EDM Videos",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFuVbKK_q7An7AGK_sBovNbm",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_circles.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_top_10.png"
 				},
 				{
 					"title": "Top 10 Indie Videos",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFtJHsp-bsHZH3jxLa08rDya",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_circles.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_top_10.png"
 				},
 				{
 					"title": "Top 10 Latin Videos",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFuz1RSdd0ua9EHdQSJecALm",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_circles.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_top_10.png"
 				},
 				{
 					"title": "Top 10 New Artist Videos",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFuHBYGM1iEL6OUyiA4BsvrZ",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_circles.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vevo_top_10.png"
 				}
 			]
 		},
@@ -214,63 +250,75 @@
 			"categoryPlaylists": [
 				{
 					"title": "Hype Hip Hop",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_k5hVwwFHrQfZpSItQz-h0yhy_FZFr3VPI",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				},
 				{
 					"title": "Pop Fresh",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_lljnd37DM3ZAAkwX51j9i6Wa4hf4zJGVk",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				},
 				{
 					"title": "R&B Wave",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_nqgFA4cRO6xWZYGvIjPpRl8IOiBf8NYd4",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				},
 				{
 					"title": "Country's New Crop",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kTIO0jFO8tNIqCjtDxiEK_3PPgWZo8P1U",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				},
 				{
 					"title": "Hottest New Riffs",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_lWaVoGOTOWt5GH4U_wU1Lo9i7w1JAptvw",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				},
 				{
 					"title": "Alternative Uprising",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_lAI1DCxReo0sn4XWOfpZsjqXWBaB5z5Oo",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				},
 				{
 					"title": "Masters Of Song",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_nft3QPpS2RjKUNsGexBnUDJiDLzVBYMN4",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				},
 				{
 					"title": "Metal Detector",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_k3KQo9RNpShnVtwpdKy5XGxSmrOd3hczI",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				},
 				{
 					"title": "Eat Sleep Beats Repeat",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_n4dowT1eaNnieuLAFZkfLdq-eQKq9VA-c",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				},
 				{
 					"title": "Hot Dance Pop",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_l23kUlrBNFerCCS9DwN7qbJ6IGrVHBmz8",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				},
 				{
 					"title": "Artists to Watch",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_nKAoX2twVSIYfq2iq7yYQ8CJS2RLjuDR0",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				},
 				{
 					"title": "The New Roots",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_lIW3ypboNs_OcFEJgmrdMIF0PPgCJyT6s",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_new_music.png"
 				}
 			]
 		},
@@ -280,48 +328,57 @@
 			"categoryPlaylists": [
 				{
 					"title": "Discover Pop",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFtbNWZwYMO7HLlH58DcVJoi",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/beach.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_vevo.png"
 				},
 				{
 					"title": "Discover Indie",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFuwFi1wSueeFR-7MdKn5xM-",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/beach.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_vevo.png"
 				},
 				{
 					"title": "Discover Country",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFs8XbSARCWThNqt5YXhCOHu",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/beach.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_vevo.png"
 				},
 				{
 					"title": "Discover Rock",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFsQ42vFCS-PhDg--aPyh9R7",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/beach.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_vevo.png"
 				},
 				{
 					"title": "Discover Hip-Hop",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFt5tsGbHhlAVX7KDM4WpMYC",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/beach.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_vevo.png"
 				},
 				{
 					"title": "Discover Alternative",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFuZjjpuZMhh7KC-Sw6aehjA",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/beach.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_vevo.png"
 				},
 				{
 					"title": "Discover Metal",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFsl7Hqzq6VeI7rWskr4lb37",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/beach.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_vevo.png"
 				},
 				{
 					"title": "Discover EDM",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFsGFJ6dh8R6AExOhIYljnjp",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/beach.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_vevo.png"
 				},
 				{
 					"title": "Discover R&B",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFvlIjnD63Q8WJdzN_Sa94kp",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/beach.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/discover_vevo.png"
 				}
 			]
 		},
@@ -331,63 +388,75 @@
 			"categoryPlaylists": [
 				{
 					"title": "New Kiwi Cool",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_ldHqbktQJiikRrKWKLQa6wz29QVcqf7RE",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				},
 				{
 					"title": "New Zealands Greatest Hits",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kuEDQ8chKNh024KpqIzlpIXcOoJFmEnfY",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				},
 				{
 					"title": "Kiwi Hip-Hop Hangout",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kBzHeNcMSBgcaSDbmZ9pW1UVCE0USqBlw",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				},
 				{
 					"title": "NZ Sunshine Reggae",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kfX2RzFFVGTri9aH2AyQVZ_F3w2aUl3vY",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				},
 				{
 					"title": "Kiwi Singer-Songwriters",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kqpNUebtcA8YCkRO8x25eirxVZgRatZDE",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				},
 				{
 					"title": "New Lit NZ",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_nDx7UBeQIMbIeCmmyQhxig0v0RXDsfyLQ",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				},
 				{
 					"title": "Kiwi Hip-Hop Essentials",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_mvy_GPyNsVhzpnP1gSDXFfmxLsU6InTNo",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				},
 				{
 					"title": "Kiwi Reggae Party",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kDnu7XXMXooj_RYwKForfdoxdjQZB9LHM",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				},
 				{
 					"title": "Kiwi R&B Classics",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_n8-GIrKvD5QQz61wGlOux8O8fImrwR_Ks",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				},
 				{
 					"title": "kiwi Indie Underground",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_mNZNEJxom-DKNePVwstErsJxSlkeAIyPI",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				},
 				{
 					"title": "NZ Dub Space-Out",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kkMVP9CB21yC0z0NqWyoSwWvKvf9HVUso",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/space.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				},
 				{
 					"title": "Kiwi Folk",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_ktXbMsuLPbIfAs34HepK3oVAudwoOvC7U",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/moutain.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/local_favourites.png"
 				}
 			]
 		},
@@ -397,63 +466,75 @@
 			"categoryPlaylists": [
 				{
 					"title": "Laid-back Sofa Pop",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kyJr7cF3AmHycw6gGUR2JNkXIdabF1d0I",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				},
 				{
 					"title": "Easy Rap and R&B",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_lBuqbl_FxGicpMcuA-YilHLEJWwfRy508",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				},
 				{
 					"title": "Too-Easy Pop",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_ksqKv0GZ5vhWBFkq5Vk3YndNA3RNcQob0",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				},
 				{
 					"title": "Acoustic Versions of Pop Hits",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_m3ZviIFTE7LMxlsqEnptKVrDJFj7SnwTA",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				},
 				{
 					"title": "Chilled Electronica",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_k-9BYQnv6z0l118PNrzVhVmJDxVR5t-Dg",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				},
 				{
 					"title": "Easy Rock",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_mQHw3tUaHpQQ8a9BU22j5y5TrST1AvZbg",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				},
 				{
 					"title": "New Indie Chillout",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kPp6kUgJ2WOUgjaQWLNEV9-yT9f9F89VE",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				},
 				{
 					"title": "Cool Drip",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kI-6ANl8JhM0zXxhWcr9cH9GdboM2L18Y",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				},
 				{
 					"title": "Laid-back country",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_mhN2wwZJpa_cxfIouzefSqUrfVOv8AVZY",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				},
 				{
 					"title": "Mellow Indie Crush",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kTXdn1WXpCAUwlXT1uY8ycYOz7lZsl0PA",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				},
 				{
 					"title": "Smooth and Soothing Vintage Pop",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_lCc_54KG8RQq3Ao4C82UIATjh3jcQ49Jc",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				},
 				{
 					"title": "Indie-Folk Chill",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_lDnyAvDGhm_hMPKvq8DMc-PWB846RnFfc",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/just_chill.png"
 				}
 			]
 		},
@@ -463,18 +544,21 @@
 			"categoryPlaylists": [
 				{
 					"title": "Live Performances",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFvtAbH4_z7IEaSYAHrNW8Wo",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/leaf.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vibing_with_vevo.png"
 				},
 				{
 					"title": "Listen While You Work",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFtsuYXNbYg_k0gUTNZAxV0Z",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/beach.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vibing_with_vevo.png"
 				},
 				{
 					"title": "Good Vibes",
+					"channel": "Vevo",
 					"path": "PL9tY0BWXOZFu46W15lzaw7yHvhV1SNZS_",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/fire_works.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/vibing_with_vevo.png"
 				}
 			]
 		},
@@ -484,58 +568,69 @@
 			"categoryPlaylists": [
 				{
 					"title": "The Happiest Pop",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kbqXHXB9aBQaqThDKOimGGcZEPubq3znc",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/brighten_day.png"
 				},
 				{
 					"title": "R&B Positivity",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_nrLYIBRmQycAGmzNqF_5XiP0Rc3rTD0oU",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_bulb.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/brighten_day.png"
 				},
 				{
 					"title": "It's a Beautiful Day",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_lFEoPERQkmQaGbKsaqcQdaKRFcJ4gIn_s",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_bulb.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/brighten_day.png"
 				},
 				{
 					"title": "Good Feelin' Country",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_l8UnjhpgNPPWntJCTG23F7EaxXmMATQMI",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_bulb.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/brighten_day.png"
 				},
 				{
 					"title": "Uplifting Electronica",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kRpxpt73iCfxZ5HT6RvEBHm3kZNLUOWN8",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_bulb.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/brighten_day.png"
 				},
 				{
 					"title": "Everyday We Lit",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_ld8TNwkf8JbOUrW4hPLgIuSCXjfmrkSSQ",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/clouds.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/brighten_day.png"
 				},
 				{
 					"title": "Feelgood Singer-Songwriter",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_n-EJnLiNl8F3qE6G1nzNS2LfctrjCs0y0",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_bulb.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/brighten_day.png"
 				},
 				{
 					"title": "Upbeat EDM",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_nfobxMFbf0qFT6Np0DqNO9HmmkG7ruB2Y",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_bulb.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/brighten_day.png"
 				},
 				{
 					"title": "High Rolling Hip-Hop",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_mwMpfKrUB39dPTV4Oo2aIh-tUfIZDvSa8",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_bulb.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/brighten_day.png"
 				},
 				{
 					"title": "Nothin' But A Good Time",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_nlT129bVdfXxWNGuJL8wKWDGHUgJLl8jg",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_bulb.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/brighten_day.png"
 				},
 				{
 					"title": "Alt-Rock Awesomeness",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_mGj9b_FABwpY4vRfhTI6fl0KLXgfemjx0",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/light_bulb.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/brighten_day.png"
 				}
 			]
 		},
@@ -545,53 +640,63 @@
 			"categoryPlaylists": [
 				{
 					"title": "All-Time Pumped-Up Hits",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kiogpnXSBLJ_UoX8DnwAEjrPbaR5QEF6k",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/orange_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/motivate.png"
 				},
 				{
 					"title": "Uplifting Pop Motiviation",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kj_rigH-scm0c8z4EMEFkRh3BacWkO5Gs",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/orange_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/motivate.png"
 				},
 				{
 					"title": "UpBeat Indie Anthems",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_mtAiuPLc2sGWxdCTxizeSL_Yt0CjznzKA",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/orange_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/motivate.png"
 				},
 				{
 					"title": "Uplifting Country Motiviation",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kuEu8XxCbRfkDhg7d9D_9Ksv17JMHALHQ",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/orange_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/motivate.png"
 				},
 				{
 					"title": "Hustle & Motivate",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_mhkoJn7aeaGWUTsJnRceypEbZzbj5IetQ",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/orange_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/motivate.png"
 				},
 				{
 					"title": "Epic EDM",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_njgN3gH9s67yejq5NE-gloMLfJdQnwnYc",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/orange_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/motivate.png"
 				},
 				{
 					"title": "Pumped Up Indie Kicks",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_nbZY5vq7Li-UVJevhN9-YBv17ngkRTvr8",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/orange_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/motivate.png"
 				},
 				{
 					"title": "Handclapping & Footstomping",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kNFD-7b03o9M-BggQHl6t8ZXfndIMdvI0",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/orange_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/motivate.png"
 				},
 				{
 					"title": "Upbeat Party Jams",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_kVrwj9jRNJd47mBrkVbESoXs34jS1pPbE",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/orange_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/motivate.png"
 				},
 				{
 					"title": "R&B Energy",
+					"channel": "YouTube Music",
 					"path": "RDCLAK5uy_mePFf4HJpuLcL7x7_-WdhT20NvbAwUlQw",
-					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/orange_dots.png"
+					"imageURL": "https://raw.githubusercontent.com/LittllePolarBear/MusicListJson/main/album_art_images/motivate.png"
 				}
 			]
 		}
