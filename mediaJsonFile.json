@@ -2,7 +2,7 @@
 	"company": "Little Polar Bear",
 	"fileDescription": "A json file containing all the playlists that relate to a category type. Designed to be used in conjunction with the YouTube api",
 	"fileCreated": "2/03/2021",
-	"fileUpdated": "3/03/2021",
+	"fileUpdated": "4/03/2021",
 	"items": [
 		{
 			"categoryName": "Today's Hot Music",
@@ -89,7 +89,7 @@
 			]
 		},
 		{
-			"categoryName": "Vevo Whats New",
+			"categoryName": "Vevo Whats Ne",
 			"channel": "Vevo",
 			"categoryPlaylists": [
 				{
